@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://mobile.twitter.com/ergulamgaus" target="blank"><img src="https://img.shields.io/twitter/follow/ergulamgaus?logo=twitter&style=for-the-badge" alt="ergulamgaus" /></a> </p>
 
-- 🔭 I’m currently Studying [B.Tech(Software Engineering) at Dr. Rizvi College of Engineering & Management]
+- 🔭 Studied from [B.Tech(Software Engineering) at Dr. Rizvi College of Engineering & Management]
 
-- 🌱 I’m currently learning **programming and web development**
+- 🌱 Experienced in **programming and web development**
 
 - 👯 My Area of Interest's are **Cloud computing, Web development, REST API**
 
